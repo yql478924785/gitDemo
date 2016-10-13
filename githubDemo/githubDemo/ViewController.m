@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"哈哈哈加都加了家里");
+    NSLog(@"0.0");
 }
 
 - (void)didReceiveMemoryWarning {
