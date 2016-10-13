@@ -20,6 +20,8 @@
     
     NSLog(@"哈哈哈加都加了家里");
     NSLog(@"0.0");
+    NSLog(@"冲突一下");
+
 }
 
 - (void)didReceiveMemoryWarning {
